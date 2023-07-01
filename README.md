@@ -1,54 +1,21 @@
-# Jesús - Desarrollador de Software
+# 💫 About Me:
+Full Stack Developer
 
-¡Hola! Soy Jesús, un apasionado desarrollador de software con experiencia en múltiples tecnologías y en el desarrollo de soluciones innovadoras. Este es mi proyecto awesome, donde comparto algunas de mis habilidades y conocimientos en el campo del desarrollo de software.
 
-## 🚀 Tecnologías
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Fulldevsus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fulldevsus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fulldevsus) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Fulldevsus) 
 
-Aquí están algunas de las tecnologías con las que trabajo:
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fulldevsus&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fulldevsus&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fulldevsus&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡️ HTML
-- 💥 CSS
-- 🌈 Bootstrap
-- 🔥 JavaScript
-- 🐘 PHP
-- 🚀 Laravel
-- 📊 SQL
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 💼 Proyectos
+---
+[![](https://visitcount.itsvg.in/api?id=Fulldevsus&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<div align="center">
-  
-| Proyecto 1 | Proyecto 2 |
-|------------|------------|
-| ![Icono Proyecto 1](url_icono_proyecto1) | ![Icono Proyecto 2](url_icono_proyecto2) |
-| [Enlace al Proyecto 1](url_proyecto1) | [Enlace al Proyecto 2](url_proyecto2) |
-  
-</div>
-
-<div align="center">
-  
-| Proyecto 3 | Proyecto 4 |
-|------------|------------|
-| ![Icono Proyecto 3](url_icono_proyecto3) | ![Icono Proyecto 4](url_icono_proyecto4) |
-| [Enlace al Proyecto 3](url_proyecto3) | [Enlace al Proyecto 4](url_proyecto4) |
-
-</div>
-
-<div align="center">
-
-| Proyecto 5 | Proyecto 6 |
-|------------|------------|
-| ![Icono Proyecto 5](url_icono_proyecto5) | ![Icono Proyecto 6](url_icono_proyecto6) |
-| [Enlace al Proyecto 5](url_proyecto5) | [Enlace al Proyecto 6](url_proyecto6) |
-
-</div>
-
-## 📬 Contacto
-
-¡Me encantaría mantenerme en contacto contigo! Puedes encontrarme en las siguientes plataformas:
-
-- 📧 Correo electrónico: Jesusdev2003@gmail.com
-- 🐦 Twitter: [@jesusdev](https://twitter.com/jesusdev)
-- 💼 LinkedIn: [jesusdev](https://www.linkedin.com/in/jesusdev)
-
-No dudes en comunicarte conmigo si tienes alguna pregunta, sugerencia o simplemente deseas conectarte. ¡Espero tener la oportunidad de colaborar contigo en proyectos emocionantes!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
