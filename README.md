@@ -1,4 +1,4 @@
-<h1 align="center">👾 Full Stack Developer - Jesus Gonzalez 👾</h1>
+<h1 align="left">👾 Full Stack Developer - Jesus Gonzalez 👾</h1>
 
 ###
 
@@ -44,11 +44,11 @@
 
 ###
 
-<p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend tellus eu justo vulputate, ac volutpat nisi iaculis. Donec semper sapien sed turpis hendrerit ultricies. Morbi pulvinar ante eget justo tempus, non pharetra turpis lobortis. Vestibulum auctor nunc eu erat laoreet, id suscipit nunc vestibulum. Nullam aliquam risus ac risus vestibulum, a faucibus risus volutpat. Duis auctor felis non varius sollicitudin. Quisque auctor elit ut erat tristique, sed sagittis sapien consequat. Aliquam tempus nisi vitae augue euismod, at efficitur metus viverra. Suspendisse rutrum tellus et semper commodo. Integer sed justo ut urna lobortis eleifend a non lectus. In euismod risus at ullamcorper tincidunt. Cras sit amet nisl efficitur, sollicitudin leo et, sagittis ipsum. Sed sed eleifend tellus.</p>
+<p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend tellus eu justo vulputate, ac volutpat nisi iaculis. Donec semper sapien sed turpis hendrerit ultricies. Morbi pulvinar ante eget justo tempus, non pharetra turpis lobortis. Vestibulum auctor nunc eu erat laoreet, id suscipit nunc vestibulum. Nullam aliquam risus ac risus vestibulum, a faucibus risus volutpat. Duis auctor felis non varius sollicitudin. Quisque auctor elit ut erat tristique, sed sagittis sapien consequat. Aliquam tempus nisi vitae augue euismod, at efficitur metus viverra. Suspendisse rutrum tellus et semper commodo. Integer sed justo ut urna lobortis eleifend a non lectus. In euismod risus at ullamcorper tincidunt. Cras sit amet nisl efficitur, sollicitudin leo et, sagittis ipsum. Sed sed eleifend tellus.
+</p>
 
-###
-
-<div align="center">
+## Contact me
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -56,25 +56,10 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-###
+##
 
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlqaXB5dWszZGU4dGFvbWUwbzRrOGphMGp3ZXh2YzdyZmdpdGNwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fulldevsus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fulldevsus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/Fulldevsus/Fulldevsus/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Fulldevsus/Fulldevsus/output/snake.svg](https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47dkq9itjnihzrfh0sn35gb0dkf1fmppzdzdba7cuy&ep=v1_gifs_search&rid=200.webp&ct=g)https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47dkq9itjnihzrfh0sn35gb0dkf1fmppzdzdba7cuy&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
