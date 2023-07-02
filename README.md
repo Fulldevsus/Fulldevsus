@@ -1,4 +1,4 @@
-# **<div align="center">Jesus Gonzalez! Full Stack Developer</div>**  
+# **<h1><div align="center">Jesus Gonzalez - Full Stack Developer</div></h1>**  
   
 
 <a href="https://github.com/Fulldevsus" target="_blank">
@@ -26,7 +26,7 @@
 
 
 
-### Sobre mi  
+### About me  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
@@ -35,36 +35,36 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Proyectos  
+## Projects  
 
 
-- **🔭 [3D Landing Page usando Three.js](http://example/com)**
+- **🔭 [3D Landing Page using Three.js](http://example/com)**
 
-- **🛒 [Tienda en linea](http://example/com)**    
+- **🛒 [E-commerce store](http://example/com)**    
 
 - **⚡ [CV Maker](http://example/com)**  
   
-- **✅ [Chat Bot para Whattsapp Empresarial](http://example/com)**  
+- **✅ [WhatsApp Business chat bo](http://example/com)**  
   
 - **🕹️ [2D Retro Games](http://example/com)**
 
--  **🌱 [Plantar para vivir - Agroproyecto](http://example/com)**
+-  **🌱 [Planting for Living - Agroproject](http://example/com)**
 
--  **📙 [Sistema de aprendizaje en linea](http://example/com)**
+-  **📙 [Online learning system](http://example/com)**
 
--  **📰 [Hoy en el mundo - Noticias ](http://example/com)**
+-  **📰 [Today in the World - News ](http://example/com)**
 
-- **📻 [El mundo en la radio](http://example/com)**
+- **📻 [The world on the radio](http://example/com)**
 
-- **🖥️ [Foro de programadores](http://example/com)**
+- **🖥️ [Programmers' forum](http://example/com)**
 
-- **😺 [Mundo gatuno](http://example/com)**
+- **😺 [Feline world](http://example/com)**
 
-- **🛎️ [Reserva de citas](http://example/com)**
+- **🛎️ [Appointment booking](http://example/com)**
 
-- **📆 [Gestion de tareas](http://example/com)**
+- **📆 [Task management](http://example/com)**
 
-- **🖼️ [Galeria de fotografias](http://example/com)**
+- **🖼️ [Photo gallery](http://example/com)**
 
 
 
@@ -76,7 +76,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Lenguajes y Herramientas  
+## Languages and tools
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -103,7 +103,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Estadisticas de GitHub  
+## GitHub statistics
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Fulldevsus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -120,7 +120,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-![Vistas de perfil](https://komarev.com/ghpvc/?username=Fulldevsus&&style=flat-square)  
+![Profile views](https://komarev.com/ghpvc/?username=Fulldevsus&&style=flat-square)  
   
 
 <br/>  
