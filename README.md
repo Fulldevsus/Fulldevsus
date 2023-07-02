@@ -1,4 +1,4 @@
-<h1 align="left">👾 Full Stack Developer - Jesus Gonzalez 👾</h1>
+<h1 align="left">Jesus Gonzalez - Fullstack Developer</h1>
 
 ###
 
@@ -47,19 +47,87 @@
 <p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend tellus eu justo vulputate, ac volutpat nisi iaculis. Donec semper sapien sed turpis hendrerit ultricies. Morbi pulvinar ante eget justo tempus, non pharetra turpis lobortis. Vestibulum auctor nunc eu erat laoreet, id suscipit nunc vestibulum. Nullam aliquam risus ac risus vestibulum, a faucibus risus volutpat. Duis auctor felis non varius sollicitudin. Quisque auctor elit ut erat tristique, sed sagittis sapien consequat. Aliquam tempus nisi vitae augue euismod, at efficitur metus viverra. Suspendisse rutrum tellus et semper commodo. Integer sed justo ut urna lobortis eleifend a non lectus. In euismod risus at ullamcorper tincidunt. Cras sit amet nisl efficitur, sollicitudin leo et, sagittis ipsum. Sed sed eleifend tellus.
 </p>
 
-## Contact me
+
+
+###
+  <div class="container">
+    <div class="content">
+      <h2 class="section-heading">Servicios</h2>
+      <ul class="section-content">
+        <li>
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <div style="background-color: #e34c26; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <i class="fab fa-html5" style="color: #fff; font-size: 24px;"></i>
+            </div>
+            <span style="margin-left: 10px;">Diseño y desarrollo de sitios web responsivos</span>
+          </div>
+        </li>
+        <li>
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <div style="background-color: #2965f1; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <i class="fab fa-css3-alt" style="color: #fff; font-size: 24px;"></i>
+            </div>
+            <span style="margin-left: 10px;">Estilización avanzada con CSS3</span>
+          </div>
+        </li>
+        <li>
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <div style="background-color: #7952b3; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <i class="fab fa-bootstrap" style="color: #fff; font-size: 24px;"></i>
+            </div>
+            <span style="margin-left: 10px;">Utilización de Bootstrap para el desarrollo ágil</span>
+          </div>
+        </li>
+        <li>
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <div style="background-color: #f7df1e; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <i class="fab fa-js" style="color: #fff; font-size: 24px;"></i>
+            </div>
+            <span style="margin-left: 10px;">Implementación de interactividad con JavaScript</span>
+          </div>
+        </li>
+        <li>
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <div style="background-color: #777bb4; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <i class="fab fa-php" style="color: #fff; font-size: 24px;"></i>
+            </div>
+            <span style="margin-left: 10px;">Desarrollo de aplicaciones web con PHP</span>
+          </div>
+        </li>
+        <li>
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <div style="background-color: #4479a1; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <i class="fas fa-database" style="color: #fff; font-size: 24px;"></i>
+            </div>
+            <span style="margin-left: 10px;">Gestión de bases de datos</span>
+          </div>
+        </li>
+      </ul>
+
+      
+  ## Contact me
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ##
+<div align="center">
+  
+![Fulldevsus's Stats](https://github-readme-stats.vercel.app/api?username=Fulldevsus&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
-<img src="https://raw.githubusercontent.com/Fulldevsus/Fulldevsus/output/snake.svg" alt="Snake animation" />
 
-###
+
+  
+![Fulldevsus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fulldevsus&theme=onedark&hide_border=false)
+
+
+![Fulldevsus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fulldevsus&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
+</div> 
+
+
 
 
